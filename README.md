@@ -1,2 +1,1 @@
-# PatternNet
-Official implementation of PatternNet: Geometry-Guided Multi-Class Stock Pattern Recognition with CNN-Transformer Fusion.
+Official implementation of PatternNet, a geometry-guided CNN-Transformer framework for multi-class stock pattern recognition using OHLCV sequences and engineered geometric descriptors.
